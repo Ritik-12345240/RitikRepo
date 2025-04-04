@@ -1,2 +1,2 @@
-# RitikRepo
-FirstGitRepository
+# RitikFirstRepoSitory
+MyFirstGitRepository
